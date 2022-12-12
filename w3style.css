@@ -1,0 +1,928 @@
+.top{
+    
+    width: 100%;
+    height: 50px;
+
+}
+body{
+    margin:0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.topleft{
+    width:50%;
+    height: 80px;
+    float:left;
+    display: flex;
+   
+    
+}
+.topleft > div {
+    
+    margin: 5px;
+    padding: 20px;
+    padding-left:10px;
+   
+  }
+.top_right{
+    width:50%;
+    height: 80px;
+    float:left;
+    display: flex;
+    
+}
+.top_right > div {
+    
+    margin: 6px;
+    padding: 5px;
+    padding-left:10px;
+    padding-top: 15px;
+    
+   
+}
+.imgLogo{
+    width: 42px;
+    margin-top: -15px;
+}
+.tutorialoption{
+    font-size: 17px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #000000;
+    cursor: pointer;  
+    
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.tutorialoption:hover{
+    background: #38bd84;
+    color:#ffff;
+    
+}
+.DarkMode{
+    width: 18px;
+    margin-top: 8px;
+    cursor: pointer; 
+}
+.DarkMode:hover{
+    color:#38bd84;
+}
+.Globe{
+    width: 30px;
+    margin-top: 3px;
+    cursor: pointer;
+}
+.Globe:hover{
+    color:#38bd84;
+    
+}
+.SearchIcon{
+    width: 25px;
+    margin-top: 6px;
+    cursor: pointer;
+}
+.SearchIcon:hover{
+    color:#38bd84;
+}
+.ButtonUpgrade{
+    border-radius: 25px;
+    background: #000000;
+    color: #ffff;
+    width: 92px;
+    height: 40px;
+    font-size: 15px;
+}
+.ButtonGetCertified{
+    
+    border-radius: 25px;
+    background-color: #FFC0C7!important;
+    color: black!important;
+    width: 105px;
+    height: 40px;
+    font-size: 15px;
+    border: none;
+    font-weight: bold;
+}
+.ButtonFreewebsite{
+    border-radius: 25px;
+    background-color: #FFF4A3!important;
+    color: black!important;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+    border: none;
+    font-weight: bold;
+}
+.LoginButton{
+    border-radius: 25px;
+    background-color: #04AA6D;
+    color: white;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    border: none;
+    font-weight: bold;
+}
+.body1{
+    width: 100%;
+    height: 550px;
+    background-color: #282A35!important;
+    border-bottom-right-radius: 10%;
+    
+}
+.Heading1{
+    color: #ffff;
+    font-size: 70px;
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center!important;
+    padding-top: 78PX;
+    margin-top: 31px;
+    height: 0px;
+}
+.Heading2{
+    color: #FFC0C7;
+    font-weight: 700;
+    margin-top: 30px!important;
+    font-size: 23px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center!important;
+    padding-top: 82PX;
+    height: 10px;
+}
+.Search1{
+    
+    width: 508px;
+    height: 40px;
+    margin: auto auto;
+    display: flex;
+    padding-top: 19px;
+    display:flex
+}
+.Search1 > div {
+    
+    margin: 6px;
+    padding: 5px;
+    padding-left:10px;
+    padding-top: 15px;
+    
+   
+}
+.searchText{
+    
+    border-radius: 30px;
+    width: 383px;
+    height: 24px;
+    padding: 10px;
+    font-size: 17px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.searchbutton{
+    border: none;
+    width: 100px;
+    height: 48px;
+    padding: 8px;
+    padding-left: 4px;
+    border-radius: 30px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    background-color: #04AA6D;
+
+}
+.imageSearch{
+    width:25px;
+    
+}
+.Heading3{
+    margin:auto;
+    padding-top: 40px;
+    padding-left: 300px;
+
+    font-family: 'Source Sans Pro', sans-serif;
+    color:white;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+.body2{
+    width: 100%;
+    height: 600px;
+    background-color: #D9EEE1;
+    margin-top: -50px;
+}
+.leftbody2{
+    width: 50%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 100px;
+}
+.rightbody2{
+    width:50%;
+    height: 500px;
+    float: left;
+    
+}
+.Htmlheading{
+    font-size: 92px;
+    font-weight: 700;
+    height: 82px;
+    margin-top: -18px!important;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center!important;
+}
+.para1{
+    
+    padding-top: 0px;
+    font-size: 19px;
+    text-align: center;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+
+}
+.Body2Button1{
+    background-color: #04AA6D;
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+
+}
+.Body2Button2{
+    background-color: #FFF4A3;
+    color: #000000;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.Body2Button3{
+    background-color: #282A35;
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.Body2Button4{
+    background-color: #FFC0C7;
+    color: #000000;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.RightInside{
+    width: 597px;
+    height: 500px;
+    padding-top: -27px;
+    position: relative;
+    float: right;
+    float: right;
+    background-color: #E7E9EB;
+    margin-top: 50px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+.Htmlimg{
+    height: 357px;
+}
+.ImgHeading{
+    color: #000000;
+    font-size: 20px;
+}
+.Body2Button5{
+    background-color: #04AA6D;
+    color: #ffff;
+    font-size: 18px;
+    margin: 0;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.body3{
+    width: 100%;
+    height: 600px;
+    background-color: #FFF4A3;
+    margin-top: 0px;
+}
+.leftbody3{
+    width: 50%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 100px;
+}
+.rightbody3{
+    width:50%;
+    height: 500px;
+    float: left;
+    
+}
+.CSSheading{
+    font-size: 92px;
+    font-weight: 700;
+    height: 82px;
+    margin-top: -18px!important;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center!important;
+}
+.para2{
+    
+    padding-top: 0px;
+    font-size: 19px;
+    text-align: center;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+
+}
+.Body3Button1{
+    background-color: #04AA6D;
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+
+}
+.Body3Button2{
+    background-color: #282A35;
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.Body3Button3{
+    background-color: #FFC0C7;
+    color: #000000;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.CSSimg{
+    height: 335px;
+}
+.body4{
+    width: 100%;
+    height: 600px;
+    background-color: #282A35;
+    margin-top: 0px;
+}
+.leftbody4{
+    width: 50%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 100px;
+}
+.rightbody4{
+    width:50%;
+    height: 500px;
+    float: left;
+    
+}
+.JavaScriptheading{
+    font-size: 70px;
+    font-weight: 700;
+    height: 82px;
+    margin-top: -18px;
+    color: #ffff;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+.para3{
+    
+    padding-top: 0px;
+    font-size: 19px;
+    text-align: center;
+    color: #ffff;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+
+}
+.Body4Button1{
+    background-color: #04AA6D;
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+
+}
+.Body4Button2{
+    background-color: #ffff;
+    color: #000000;
+    font-size: 15px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.Body4Button3{
+    background-color: #FFC0C7;
+    color: #000000;
+    font-size: 15px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.JSimg{
+    height: 364px;
+}
+.body5{
+    width: 100%;
+    height: 520px;
+    background-color: #F3ecea;
+    margin-top: 0px;
+}
+.leftbody5{
+    width: 50%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 100px;
+}
+.rightbody5{
+    width:50%;
+    height: 500px;
+    float: left;
+    
+}
+.Pythonheading{
+    font-size: 70px;
+    font-weight: 700;
+    height: 82px;
+    margin-top: -18px;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+.para4{
+    
+    padding-top: 0px;
+    font-size: 19px;
+    text-align: center;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+
+}
+.Body5Button1{
+    background-color: #04AA6D;
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+
+}
+.Body5Button2{
+    background-color: #000000;
+    color: #ffff;
+    font-size: 15px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.Body5Button3{
+    background-color: #FFC0C7;
+    color: #000000;
+    font-size: 15px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.Pythonimg{
+    height: 213px;
+}
+.RightInsidePython{
+    width: 597px;
+    height: 384px;
+    padding-top: -27px;
+    position: relative;
+    float: right;
+    float: right;
+    background-color: #E7E9EB;
+    margin-top: 50px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+.body6{
+    width: 100%;
+    height: 566px;
+    background-color: #96D4D4;
+    margin-top: 0px;
+}
+.leftbody6{
+    width: 50%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    padding-left: 1px;
+    padding-top: 45px;
+}
+.rightbody6{
+    width:50%;
+    height: 500px;
+    float: left;
+    
+}
+.SQLheading{
+    font-size: 70px;
+    font-weight: 700;
+    height: 82px;
+    margin-top: -18px;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+.para5{
+    
+    padding-top: 0px;
+    font-size: 19px;
+    text-align: center;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+
+}
+.Body6Button1{
+    background-color: #04AA6D;
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+
+}
+.Body6Button2{
+    background-color: #000000;
+    color: #ffff;
+    font-size: 15px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.Body6Button3{
+    background-color: #FFC0C7;
+    color: #000000;
+    font-size: 15px;
+    margin: auto;
+    display: block;
+    width: 189px;
+    height: 35px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.SQLimg{
+    height: 213px;
+}
+.RightInsideSQL{
+    width: 597px;
+    height: 384px;
+    padding-top: -27px;
+    position: relative;
+    float: right;
+    float: right;
+    background-color: #E7E9EB;
+    margin-top: 24px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+.body7{
+    width: 100%;
+    height: 1800px;
+    background-color: #282A35;
+    margin-top: -20px;
+    /* position: absolute; */
+}
+.ProvideMargin{
+    height: 40px;
+}
+.leftbody7{
+    width: 564px;
+    height: 162px;
+    background-color: #ffc0c7;
+    padding-top: 100px;
+    margin-top: 110px;
+    margin-left: 140px;
+    border-radius: 2%;
+}
+.rightbody7{
+    margin-right: 160px;
+    width: 560px;
+    float: right;
+    background-color: #FFF4A3;
+    height: 182px;
+    padding-top: 77px;
+    margin-top: -265px;
+    border-radius: 2%;
+}
+.BulletHeadings{
+    font-size: 40px;
+    font-weight: 700;
+    height: 51px;
+    margin-top: -40px;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+.BulletPara{
+    
+    padding-top: 0px;
+    font-size: 15px;
+    text-align: center;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+
+}
+.Bulletbutton{
+    background-color: #282A35;
+    color: #ffff;
+    font-size: 15px;
+    margin: auto;
+    display: block;
+    width: 200px;
+    height: 45px;
+    border-radius: 25px;
+    font-weight: 600;
+    margin-top: 15px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.BulletHeadings1{
+    font-size: 40px;
+    font-weight: 700;
+    height: 51px;
+    margin-top: -40px;
+    padding-left: 10px;
+    padding-top: 18px;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+.leftbody8{
+    width: 564px;
+    height: 162px;
+    background-color: #f3ecea;
+    padding-top: 100px;
+    margin-top: 110px;
+    margin-left: 140px;
+    border-radius: 2%;
+}
+.rightbody8{
+    margin-right: 160px;
+    width: 560px;
+    float: right;
+    background-color: #D9EEE1;
+    height: 182px;
+    padding-top: 77px;
+    margin-top: -265px;
+    border-radius: 2%;
+}
+.leftbody9{
+    width: 564px;
+    height: 162px;
+    background-color: #96D4D4;
+    padding-top: 100px;
+    margin-top: 110px;
+    margin-left: 140px;
+    border-radius: 2%;
+}
+.rightbody9{
+    margin-right: 160px;
+    width: 560px;
+    float: right;
+    background-color: #E7E9EB;
+    height: 182px;
+    padding-top: 77px;
+    margin-top: -265px;
+    border-radius: 2%;
+}
+.howspacespng{
+    padding-left: 164px;
+    margin-top: 100px;
+    
+}
+.Bulletbuttonfree{
+    background-color: #04AA6D;
+    color: #ffff;
+    margin: auto;
+    display: block;
+    font-size: 21px;
+    width: 300px;
+    height: 45px;
+    border-radius: 25px;
+    font-weight: 600;
+    margin-top: 65px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.body8{
+    width: 100%;
+    height: 885px;
+    background-color:#D9EEE1 ;
+    margin-top: -50px;
+    
+}
+.Headingbody8{
+    padding-top: 108px;
+    text-align: center;
+    font-size: 65px;
+    font-weight: 700;
+    
+}
+.parabody8{
+    
+    padding-top: 0px;
+    font-size: 19px;
+    text-align: center;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 100;
+
+}
+.footerclass{
+    background-color: #282A35;
+    width: 100%;
+    height: 300px;
+    padding-top: 20px;
+}
+.footerdiv1{
+   
+    width: 100%;
+    height: 100px;
+    display: flex;  
+    padding-top: 15px;
+}
+.footerdiv1 > div {
+ 
+  margin: 0px;
+  padding: 4px;
+  font-size: 30px;
+}
+.Bulletfooter{
+    border: none;
+    border-radius: 9px;
+    background-attachment: #ffff;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.5;
+    font-size: 13px;
+    font-weight: 600;
+    width: 100px;
+    height: 43px;
+}
+.footerlogo{
+    width: 17%;
+    float: right;
+    height: 25px;
+    display:flex;
+    
+   
+}
+.footerlogo>div{
+   width:250.38px;
+   height: 50px;
+   display: grid;
+   grid-template-columns: repeat(4,1fr);
+    margin: 0px;
+  padding: 15px;
+  font-size: 19px;
+}
+.footerimg{
+    width: 16px;
+}
+.footerdiv2{
+    width:100%;
+    margin-top: 21px;
+    height: 50px;
+    float:left;
+}
+.lastpara{
+    color: #ffff;
+    text-align: center;
+    font-size: 15px;
+}
+
